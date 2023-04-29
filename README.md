@@ -1,4 +1,3 @@
-# Estudos
-Pequenas coisinhas que fiz e gostaria de guardar em algum lugar
+# Estudos | Ping Pong |
 Fiz essa besteirinha em uma quinta feira após o trabalho, levou mais tempo do que eu gostaria de admitir. Minha primeira criação e estou orgulhoso.
-o joguinho da vaca deu um trabalinho, preciso melhorar minha habilidade com spring
+
